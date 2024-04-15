@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "H2SO4"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the tallest mammal?",
+      "options": ["Elephant", "Giraffe", "Horse", "Whale"],
+      "answer": "Giraffe"
+    },
+    {
+      "question": "Which country is home to the kangaroo?",
+      "options": ["Australia", "Brazil", "Canada", "India"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "answer": "Au"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    }
+  ]
+  
